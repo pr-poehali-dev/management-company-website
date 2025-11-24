@@ -34,7 +34,7 @@ const Index = () => {
           <nav className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Building2" size={28} className="text-primary" />
-              <span className="text-xl font-bold text-secondary">МП Комфорт</span>
+              <span className="text-xl font-bold text-secondary">МУП ТГС</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-8">
