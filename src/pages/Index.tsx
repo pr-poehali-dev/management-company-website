@@ -84,8 +84,8 @@ const Index = () => {
           <div className="container mx-auto px-4 py-20">
             <div className="max-w-4xl mx-auto text-center animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 text-secondary">
-                Муниципальное предприятие<br />
-                <span className="text-primary">полного цикла</span>
+                <span className="text-primary">Управляющая компания</span><br />
+                для вашего комфорта
               </h1>
               <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
                 Профессиональное управление жилыми и коммерческими объектами. 
