@@ -72,9 +72,11 @@ const Index = () => {
               </button>
             </div>
 
-            <Button onClick={() => scrollToSection('contacts')} className="hidden md:flex">
-              Связаться с нами
-            </Button>
+            <img 
+              src="https://cdn.poehali.dev/files/5c4875e6-879e-4a96-bce3-e9ba127c7415.png" 
+              alt="Теплогазсервис" 
+              className="hidden md:block h-12 w-auto"
+            />
           </nav>
         </div>
       </header>
