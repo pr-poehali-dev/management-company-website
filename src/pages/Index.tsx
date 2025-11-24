@@ -34,7 +34,7 @@ const Index = () => {
           <nav className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Building2" size={28} className="text-primary" />
-              <span className="text-xl font-bold text-secondary">УК Комфорт</span>
+              <span className="text-xl font-bold text-secondary">МП Комфорт</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-8">
@@ -84,7 +84,7 @@ const Index = () => {
           <div className="container mx-auto px-4 py-20">
             <div className="max-w-4xl mx-auto text-center animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 text-secondary">
-                Управляющая компания<br />
+                Муниципальное предприятие<br />
                 <span className="text-primary">полного цикла</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
@@ -155,7 +155,7 @@ const Index = () => {
               
               <div className="prose prose-lg max-w-none mb-12">
                 <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                  УК «Комфорт» — это современная управляющая компания, специализирующаяся на комплексном 
+                  МП «Комфорт» — это современное муниципальное предприятие, специализирующееся на комплексном 
                   обслуживании жилых и коммерческих объектов. Мы работаем на рынке более 15 лет и за это 
                   время заслужили доверие тысяч жильцов и собственников.
                 </p>
@@ -485,11 +485,11 @@ const Index = () => {
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="flex items-center space-x-2">
                 <Icon name="Building2" size={24} />
-                <span className="text-lg font-bold">УК Комфорт</span>
+                <span className="text-lg font-bold">МП Комфорт</span>
               </div>
               
               <div className="text-center md:text-right">
-                <p className="text-sm opacity-80">© 2024 УК Комфорт. Все права защищены.</p>
+                <p className="text-sm opacity-80">© 2024 МП Комфорт. Все права защищены.</p>
                 <p className="text-xs opacity-60 mt-1">Профессиональное управление недвижимостью</p>
               </div>
             </div>
