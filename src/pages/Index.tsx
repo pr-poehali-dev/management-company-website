@@ -85,7 +85,7 @@ const Index = () => {
             <div className="max-w-4xl mx-auto text-center animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 text-secondary">
                 <span className="text-primary">Муниципальное унитарное предприятие</span><br />
-                Торжокского района Теплогазсервис
+                Торжокского района «Теплогазсервис»
               </h1>
               <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
                 Профессиональное управление жилыми и коммерческими объектами. 
